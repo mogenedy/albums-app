@@ -1,0 +1,23 @@
+/* Resetting default margin and padding for better consistency */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for main content area */
+main {
+    padding: 20px;
+}
+
+/* Styling for footer */
+footer {
+    background-color: #333; /* Example background color */
+    color: #fff; /* Example text color */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Styling for the copyright paragraph inside footer */
+footer p {
+    font-size: 14px;
+}
